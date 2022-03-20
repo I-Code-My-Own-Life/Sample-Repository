@@ -95,6 +95,7 @@ git checkout -- first_renamed.txt
 git checkout -f  
 git remote -v 
 git push -u origin master 
+git push -d origin master  
 
 Git Diff compares working directory with the staging area.
 
