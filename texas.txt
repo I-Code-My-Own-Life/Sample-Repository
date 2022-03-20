@@ -1,3 +1,0 @@
-
-This is a texas file just for fun in git and github. 
-This is from master .
