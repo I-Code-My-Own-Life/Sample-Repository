@@ -1,3 +1,9 @@
+                                                         
+
+                                               My Important File.
+
+
+
 +Typing Master 10 Crack 
 =======================================
 
@@ -94,9 +100,6 @@ Git Diff compares working directory with the staging area.
 git diff --staged compares the previous commit to the staging area. 
 
 
-
-
-My Important File.
 
 
 
