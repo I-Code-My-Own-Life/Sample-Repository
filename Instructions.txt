@@ -73,8 +73,10 @@ emanamir2546@Gmail.com = 00115665manfuCK
                   that we won't know what we don't know, which could be a problem. 
 
 
-
-
+                    The major difference between a thing that might go wrong and a thing that cannot 
+                    possibly go wrong is that when a thing that cannot possibly go wrong goes wrong it 
+                                 usually turns out to be impossible to get at or repair.
+ 
 
 
 
